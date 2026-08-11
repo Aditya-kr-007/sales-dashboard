@@ -2,6 +2,8 @@
 
 A simple retail sales dashboard built with **Next.js 15, TypeScript, Tailwind CSS and Recharts**. It follows an **Atomic Design** component structure and compares sales for 2022, 2023 and 2024.
 
+LIVE DEMO:- https://sales-dashboard-1aykycsvn-aditya-1cb6.vercel.app/
+
 ## Features
 
 - Next.js 15 App Router + TypeScript
